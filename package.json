@@ -1,0 +1,22 @@
+{
+  "name": "@aniruk/Uploaded",
+  "version": "1.0.0",
+  "description": "Is the string Uploaded?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://https://github.com/anikhandelwal/SampleNPM"
+  },
+  "keywords": [
+    "Movies"
+  ],
+  "author": "Anirudh K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anikhandelwal/SampleNPM/issues"
+  },
+  "homepage": "https://github.com/anikhandelwal/SampleNPM/blob/main/README.md"
+}
