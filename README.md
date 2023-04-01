@@ -1,1 +1,1 @@
-# SampleNPM
+# is-package-uploaded
